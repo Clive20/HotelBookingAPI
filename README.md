@@ -1,1 +1,1 @@
-# Hotel Booking API
+# Hotel Booking Application Programming Interface (API)
