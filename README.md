@@ -8,3 +8,5 @@ Hotel Booking API is a RESTful API built with ASP.NET Core, designed to handle h
 - Data Persistence: Uses a database to store room and booking information.
 
 This project provided valuable experience in building scalable APIs, managing data using Entity Framework Core, and applying best practices in ASP.NET Core development.
+
+# Screenshots
